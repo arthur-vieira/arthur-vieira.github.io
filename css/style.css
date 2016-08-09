@@ -1,0 +1,38 @@
+@charset = "UTF-8";
+
+/* Global */
+
+body {
+  background-color: #534B46;
+  color: #DCD7D1;
+}
+
+h1 {
+  color: #FEFEFE;
+}
+
+h2 {
+  color: #CCC2B4;
+}
+
+a {
+  color: #A3DCD0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FEFEFE;
+  text-decoration: underline;
+}
+
+#wrapper {
+  margin: 4em;
+}
+
+#arthur-vieira {
+  color: #FEFEFE;
+}
+
+footer a {
+  display: inline-block;
+}
